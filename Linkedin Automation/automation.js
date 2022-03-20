@@ -86,11 +86,6 @@ return acceptBtnPromise;
 })
   
 
-//document.querySelectorAll(`.display-flex >.pvs-profile-actions >button[data-control-name="accept"]`)[1].click()
-
-//.display-flex >.pvs-profile-actions >button[data-control-name="accept"]
-  
-  
 // const value = await page.evaluate(
 //     () => document.querySelectorAll('table tr td')[1].innerHTML
 // );
