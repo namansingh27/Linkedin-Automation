@@ -89,6 +89,7 @@ return acceptBtnPromise;
 // const value = await page.evaluate(
 //     () => document.querySelectorAll('table tr td')[1].innerHTML
 // );
+//()
   
   
  
